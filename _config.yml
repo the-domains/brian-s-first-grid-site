@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0B8B8'
+    - '#5A302A'
+    - '#807878'
+    - '#884840'
+    - '#000000'
+  brandStrength: 0.214093
+  lightness: 0.856342
+  rhythmicContrast: 0.745734
+  saturation: 0.965467
+cta: {}
+layout_spectrum: 0.184966
+name: "Brian's First Grid Site"
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.806587
