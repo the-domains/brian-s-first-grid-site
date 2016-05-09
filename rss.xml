@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brian's First Grid Site]]></title>
         <description><![CDATA[Brian's First Grid Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brian-s-first-grid-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 03:09:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 21:45:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brian-s-first-grid-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f945e62-5e67-4072-8801-f0ce6bb561c4.jpg">]]></description>
+            <link>https://thegrid.ai/brian-s-first-grid-site/here-is-where-i-am-typing-the-text-that-was-asked-of-me-i-a/index.html</link>
+            <guid isPermaLink="false">4890ae1b-bdc3-401e-abae-d0650d7aa4e7</guid>
+            <pubDate>Mon, 09 May 2016 21:45:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/893c886f-fa7b-4174-b9ae-a2938d4279c1.jpg" alt="" title="">]]></description>
-            <link>undefinedb4dfe04d-4b25-4771-816b-ff90458158ef/index.html</link>
+            <link>https://thegrid.ai/brian-s-first-grid-site/b4dfe04d-4b25-4771-816b-ff90458158ef/index.html</link>
             <guid isPermaLink="false">b4dfe04d-4b25-4771-816b-ff90458158ef</guid>
             <pubDate>Thu, 31 Dec 2015 03:09:45 GMT</pubDate>
         </item>
